@@ -1,5 +1,7 @@
 package com.TerominoProject;
 
+import com.TerominoProject.Entity.Cell;
+
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;

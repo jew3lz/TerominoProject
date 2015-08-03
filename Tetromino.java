@@ -1,5 +1,7 @@
 package com.TerominoProject;
 
+import com.TerominoProject.Entity.Cell;
+
 import java.util.Arrays;
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.TerominoProject;
+package com.TerominoProject.Entity;
 
 import java.awt.image.BufferedImage;
 
